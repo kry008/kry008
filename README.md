@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kry008&label=Profile%20views&color=00eeff&style=plastic" alt="kry008" /> </p>
 
 - 🔭 I’m currently working on **NodeJS modules**
-- 
+
 - 🔭 I’m currently working on **Chess in ReactJS**
 
 - 📝 I regularly write articles on [https://skrypty.ml](https://skrypty.ml)

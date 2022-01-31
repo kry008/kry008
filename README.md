@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **Chess in ReactJS**
 
+- 🔭 I’m currently working on **DiscordNewsBot**
+
 - 📝 I regularly write articles on [https://skrypty.ml](https://skrypty.ml)
 
 <h3 align="left">Connect with me:</h3>

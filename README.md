@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kry008&show_icons=true&locale=pl&layout=compact" alt="kry008" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kry008&show_icons=true&theme=dark&hide_border=true&locale=pl" alt="kry008" /></p>
+
+Patronite

@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **NodeJS modules**
 
-- 🔭 I’m currently working on **Chess in ReactJS**
+- 🔭 I’m currently working on **Pterodactyl.IO eggs (add-ons) for ARM servers**
 
-- 🔭 I’m currently working on **DiscordNewsBot**
+- ~🔭 I’m currently working on **DiscordNewsBot**~
 
 - 📝 I regularly write articles on [https://skrypty.ml](https://skrypty.ml)
 

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm kry008</h1>
 <h3 align="center">A programmer with passion</h3>
+<a href="https://kry008.ml"><h3 align="center">My blog</h3></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kry008&label=Profile%20views&color=00eeff&style=plastic" alt="kry008" /> </p>
 

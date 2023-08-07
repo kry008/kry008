@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kry008&label=Profile%20views&color=00eeff&style=plastic" alt="kry008" /> </p>
 
-## [My blog](https://kry008.ml)
+## [My blog](https://kry008.xyz)
 
 - 🔭 I’m currently working on **NodeJS modules**
 
@@ -11,9 +11,8 @@
 
 - ~🔭 I’m currently working on **DiscordNewsBot**~
 
-- 📝 I regularly write articles on [https://skrypty.ml](https://skrypty.ml)
+- 📝 I regularly write articles on [https://kry008.xyz/blog](https://kry008.xyz/blog)
 
-- 📝 My project, Professional exam test, programmer technician [https://www.egzaminweb.ml/#](https://www.egzaminweb.ml/#)  
 
 - Small project from React [Unit converter](https://kry008-przelicznik.netlify.app/)
 

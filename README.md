@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **NodeJS modules**
 
-- 🔭 I’m currently working on **Pterodactyl.IO eggs (add-ons) for ARM servers**
-
-- ~🔭 I’m currently working on **DiscordNewsBot**~
+- 🔭 I'm currently working on, and it is small dev project **[Attendance-list](https://git.kry008.xyz/kry008/Attendance-list)**
 
 - 📝 I regularly write articles on [https://kry008.xyz/blog](https://kry008.xyz/blog)
 
@@ -44,7 +42,6 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kry008&show_icons=true&locale=pl&layout=compact" alt="kry008" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kry008&show_icons=true&theme=dark&hide_border=true&locale=pl" alt="kry008" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kry008&show_icons=true&locale=pl&layout=compact" alt="kry008" /></p>
 

@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kry008&label=Profile%20views&color=00eeff&style=plastic" alt="kry008" /> </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5PAXSU)
+
 ## [My blog](https://kry008.xyz)
 
 - 🔭 I’m currently working on **NodeJS modules**

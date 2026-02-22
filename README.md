@@ -5,16 +5,14 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5PAXSU)
 
-## [My blog](https://kry008.xyz)
+## [My small nook](https://kry008.xyz)
 
 - 🔭 I’m currently working on **NodeJS modules**
 
-- 🔭 I'm currently working on, and it is small dev project **[Attendance-list](https://git.kry008.xyz/kry008/Attendance-list)**
+- 🔭 I'm currently working on **[small dev projects](https://github.com/kry008?tab=repositories)**
 
-- 📝 I regularly write articles on [https://kry008.xyz/blog](https://kry008.xyz/blog)
+- 📝 I regularly write articles on [https://umbrenews.pl/](https://umbrenews.pl/) - it is pokemon blog in Polish
 
-
-- Small project from React [Unit converter](https://kry008-przelicznik.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
